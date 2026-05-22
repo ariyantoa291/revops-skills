@@ -1,0 +1,83 @@
+{
+  "company": {
+    "name": "Northwind Cloud",
+    "industry": "B2B SaaS",
+    "stage": "Series C",
+    "arr_usd": 15400000,
+    "fiscal_year_end": "January 31",
+    "current_quarter": "Q2 FY2027",
+    "quarter_end": "2026-06-30"
+  },
+  "reps": [
+    {
+      "id": "rep_001",
+      "name": "Aisha Okonkwo",
+      "segment": "Enterprise",
+      "tenure_months": 38,
+      "profile": "calibrated"
+    },
+    {
+      "id": "rep_002",
+      "name": "Diego Marquez",
+      "segment": "Enterprise",
+      "tenure_months": 22,
+      "profile": "optimist"
+    },
+    {
+      "id": "rep_003",
+      "name": "Priya Raman",
+      "segment": "Mid-Market",
+      "tenure_months": 51,
+      "profile": "sandbagger"
+    },
+    {
+      "id": "rep_004",
+      "name": "Tomas Lindgren",
+      "segment": "Mid-Market",
+      "tenure_months": 14,
+      "profile": "optimist"
+    },
+    {
+      "id": "rep_005",
+      "name": "Yuki Tanaka",
+      "segment": "Mid-Market",
+      "tenure_months": 29,
+      "profile": "calibrated"
+    },
+    {
+      "id": "rep_006",
+      "name": "Marcus Bell",
+      "segment": "Commercial",
+      "tenure_months": 8,
+      "profile": "wildcard"
+    },
+    {
+      "id": "rep_007",
+      "name": "Sofia Restrepo",
+      "segment": "Commercial",
+      "tenure_months": 19,
+      "profile": "calibrated"
+    },
+    {
+      "id": "rep_008",
+      "name": "Hannes Vogel",
+      "segment": "Commercial",
+      "tenure_months": 11,
+      "profile": "optimist"
+    },
+    {
+      "id": "rep_009",
+      "name": "Lakshmi Iyer",
+      "segment": "Enterprise",
+      "tenure_months": 44,
+      "profile": "sandbagger"
+    },
+    {
+      "id": "rep_010",
+      "name": "Wei Chen",
+      "segment": "Commercial",
+      "tenure_months": 5,
+      "profile": "wildcard"
+    }
+  ]
+}

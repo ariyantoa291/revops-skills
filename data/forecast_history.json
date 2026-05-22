@@ -1,0 +1,962 @@
+[
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-02-25",
+    "commit_amount": 80000,
+    "bestcase_amount": 92000,
+    "pipeline_amount": 138000
+  },
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-03-04",
+    "commit_amount": 78000,
+    "bestcase_amount": 93000,
+    "pipeline_amount": 139000
+  },
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-03-11",
+    "commit_amount": 82500,
+    "bestcase_amount": 106000,
+    "pipeline_amount": 159000
+  },
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-03-18",
+    "commit_amount": 86500,
+    "bestcase_amount": 102000,
+    "pipeline_amount": 153000
+  },
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-03-25",
+    "commit_amount": 79000,
+    "bestcase_amount": 98500,
+    "pipeline_amount": 148000
+  },
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-04-01",
+    "commit_amount": 84000,
+    "bestcase_amount": 104500,
+    "pipeline_amount": 157000
+  },
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-04-08",
+    "commit_amount": 81000,
+    "bestcase_amount": 93000,
+    "pipeline_amount": 139500
+  },
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-04-15",
+    "commit_amount": 85500,
+    "bestcase_amount": 110000,
+    "pipeline_amount": 165000
+  },
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-04-22",
+    "commit_amount": 78500,
+    "bestcase_amount": 103000,
+    "pipeline_amount": 155000
+  },
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-04-29",
+    "commit_amount": 82000,
+    "bestcase_amount": 98000,
+    "pipeline_amount": 147000
+  },
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-05-06",
+    "commit_amount": 85500,
+    "bestcase_amount": 110000,
+    "pipeline_amount": 164500
+  },
+  {
+    "rep_id": "rep_001",
+    "rep_name": "Aisha Okonkwo",
+    "week_of": "2026-05-13",
+    "commit_amount": 78500,
+    "bestcase_amount": 98500,
+    "pipeline_amount": 147500
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-02-25",
+    "commit_amount": 47500,
+    "bestcase_amount": 60500,
+    "pipeline_amount": 91000
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-03-04",
+    "commit_amount": 41000,
+    "bestcase_amount": 53500,
+    "pipeline_amount": 80500
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-03-11",
+    "commit_amount": 47000,
+    "bestcase_amount": 59000,
+    "pipeline_amount": 88500
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-03-18",
+    "commit_amount": 46500,
+    "bestcase_amount": 56000,
+    "pipeline_amount": 84000
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-03-25",
+    "commit_amount": 44000,
+    "bestcase_amount": 59000,
+    "pipeline_amount": 88500
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-04-01",
+    "commit_amount": 41000,
+    "bestcase_amount": 54500,
+    "pipeline_amount": 82000
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-04-08",
+    "commit_amount": 47000,
+    "bestcase_amount": 56000,
+    "pipeline_amount": 84000
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-04-15",
+    "commit_amount": 50000,
+    "bestcase_amount": 58000,
+    "pipeline_amount": 87000
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-04-22",
+    "commit_amount": 46500,
+    "bestcase_amount": 58500,
+    "pipeline_amount": 88000
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-04-29",
+    "commit_amount": 42000,
+    "bestcase_amount": 57000,
+    "pipeline_amount": 85000
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-05-06",
+    "commit_amount": 42500,
+    "bestcase_amount": 51000,
+    "pipeline_amount": 76500
+  },
+  {
+    "rep_id": "rep_002",
+    "rep_name": "Diego Marquez",
+    "week_of": "2026-05-13",
+    "commit_amount": 43000,
+    "bestcase_amount": 52500,
+    "pipeline_amount": 78500
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-02-25",
+    "commit_amount": 39500,
+    "bestcase_amount": 48500,
+    "pipeline_amount": 73000
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-03-04",
+    "commit_amount": 47000,
+    "bestcase_amount": 63000,
+    "pipeline_amount": 95000
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-03-11",
+    "commit_amount": 47500,
+    "bestcase_amount": 59000,
+    "pipeline_amount": 88500
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-03-18",
+    "commit_amount": 41000,
+    "bestcase_amount": 50500,
+    "pipeline_amount": 75500
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-03-25",
+    "commit_amount": 38000,
+    "bestcase_amount": 49000,
+    "pipeline_amount": 73500
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-04-01",
+    "commit_amount": 41500,
+    "bestcase_amount": 55000,
+    "pipeline_amount": 82500
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-04-08",
+    "commit_amount": 43000,
+    "bestcase_amount": 54000,
+    "pipeline_amount": 80500
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-04-15",
+    "commit_amount": 50000,
+    "bestcase_amount": 59500,
+    "pipeline_amount": 89500
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-04-22",
+    "commit_amount": 49500,
+    "bestcase_amount": 66500,
+    "pipeline_amount": 99500
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-04-29",
+    "commit_amount": 36500,
+    "bestcase_amount": 42000,
+    "pipeline_amount": 63000
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-05-06",
+    "commit_amount": 48000,
+    "bestcase_amount": 63000,
+    "pipeline_amount": 94500
+  },
+  {
+    "rep_id": "rep_003",
+    "rep_name": "Priya Raman",
+    "week_of": "2026-05-13",
+    "commit_amount": 38500,
+    "bestcase_amount": 44500,
+    "pipeline_amount": 67000
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-02-25",
+    "commit_amount": 14000,
+    "bestcase_amount": 18500,
+    "pipeline_amount": 27500
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-03-04",
+    "commit_amount": 15500,
+    "bestcase_amount": 20500,
+    "pipeline_amount": 31000
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-03-11",
+    "commit_amount": 15500,
+    "bestcase_amount": 19500,
+    "pipeline_amount": 29000
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-03-18",
+    "commit_amount": 15500,
+    "bestcase_amount": 20500,
+    "pipeline_amount": 31000
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-03-25",
+    "commit_amount": 15500,
+    "bestcase_amount": 18500,
+    "pipeline_amount": 28000
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-04-01",
+    "commit_amount": 14500,
+    "bestcase_amount": 19000,
+    "pipeline_amount": 28500
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-04-08",
+    "commit_amount": 17500,
+    "bestcase_amount": 23500,
+    "pipeline_amount": 35000
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-04-15",
+    "commit_amount": 15500,
+    "bestcase_amount": 19000,
+    "pipeline_amount": 28500
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-04-22",
+    "commit_amount": 14500,
+    "bestcase_amount": 19000,
+    "pipeline_amount": 28500
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-04-29",
+    "commit_amount": 16500,
+    "bestcase_amount": 21000,
+    "pipeline_amount": 31000
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-05-06",
+    "commit_amount": 15500,
+    "bestcase_amount": 18000,
+    "pipeline_amount": 27000
+  },
+  {
+    "rep_id": "rep_004",
+    "rep_name": "Tomas Lindgren",
+    "week_of": "2026-05-13",
+    "commit_amount": 14500,
+    "bestcase_amount": 19000,
+    "pipeline_amount": 28500
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-02-25",
+    "commit_amount": 43000,
+    "bestcase_amount": 58500,
+    "pipeline_amount": 87500
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-03-04",
+    "commit_amount": 41500,
+    "bestcase_amount": 54000,
+    "pipeline_amount": 80500
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-03-11",
+    "commit_amount": 42500,
+    "bestcase_amount": 50000,
+    "pipeline_amount": 75000
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-03-18",
+    "commit_amount": 45000,
+    "bestcase_amount": 57000,
+    "pipeline_amount": 85500
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-03-25",
+    "commit_amount": 43000,
+    "bestcase_amount": 52500,
+    "pipeline_amount": 79000
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-04-01",
+    "commit_amount": 44000,
+    "bestcase_amount": 54500,
+    "pipeline_amount": 81500
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-04-08",
+    "commit_amount": 39500,
+    "bestcase_amount": 51500,
+    "pipeline_amount": 77000
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-04-15",
+    "commit_amount": 39000,
+    "bestcase_amount": 45500,
+    "pipeline_amount": 68000
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-04-22",
+    "commit_amount": 39000,
+    "bestcase_amount": 47000,
+    "pipeline_amount": 70000
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-04-29",
+    "commit_amount": 44500,
+    "bestcase_amount": 59500,
+    "pipeline_amount": 89500
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-05-06",
+    "commit_amount": 38500,
+    "bestcase_amount": 47500,
+    "pipeline_amount": 71500
+  },
+  {
+    "rep_id": "rep_005",
+    "rep_name": "Yuki Tanaka",
+    "week_of": "2026-05-13",
+    "commit_amount": 38500,
+    "bestcase_amount": 50000,
+    "pipeline_amount": 75000
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-02-25",
+    "commit_amount": 8500,
+    "bestcase_amount": 11500,
+    "pipeline_amount": 17500
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-03-04",
+    "commit_amount": 6000,
+    "bestcase_amount": 7000,
+    "pipeline_amount": 10500
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-03-11",
+    "commit_amount": 9500,
+    "bestcase_amount": 11500,
+    "pipeline_amount": 17000
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-03-18",
+    "commit_amount": 6000,
+    "bestcase_amount": 6500,
+    "pipeline_amount": 10000
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-03-25",
+    "commit_amount": 6500,
+    "bestcase_amount": 9000,
+    "pipeline_amount": 13500
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-04-01",
+    "commit_amount": 8000,
+    "bestcase_amount": 9500,
+    "pipeline_amount": 14000
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-04-08",
+    "commit_amount": 10000,
+    "bestcase_amount": 12500,
+    "pipeline_amount": 19000
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-04-15",
+    "commit_amount": 9500,
+    "bestcase_amount": 11500,
+    "pipeline_amount": 17500
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-04-22",
+    "commit_amount": 10000,
+    "bestcase_amount": 13000,
+    "pipeline_amount": 19500
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-04-29",
+    "commit_amount": 6500,
+    "bestcase_amount": 7500,
+    "pipeline_amount": 11000
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-05-06",
+    "commit_amount": 7000,
+    "bestcase_amount": 9500,
+    "pipeline_amount": 14000
+  },
+  {
+    "rep_id": "rep_006",
+    "rep_name": "Marcus Bell",
+    "week_of": "2026-05-13",
+    "commit_amount": 10500,
+    "bestcase_amount": 12500,
+    "pipeline_amount": 19000
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-02-25",
+    "commit_amount": 6500,
+    "bestcase_amount": 8500,
+    "pipeline_amount": 12500
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-03-04",
+    "commit_amount": 7000,
+    "bestcase_amount": 9500,
+    "pipeline_amount": 14000
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-03-11",
+    "commit_amount": 7000,
+    "bestcase_amount": 9000,
+    "pipeline_amount": 13500
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-03-18",
+    "commit_amount": 6500,
+    "bestcase_amount": 7500,
+    "pipeline_amount": 11500
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-03-25",
+    "commit_amount": 7000,
+    "bestcase_amount": 8500,
+    "pipeline_amount": 13000
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-04-01",
+    "commit_amount": 7000,
+    "bestcase_amount": 8000,
+    "pipeline_amount": 12500
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-04-08",
+    "commit_amount": 6500,
+    "bestcase_amount": 8500,
+    "pipeline_amount": 13000
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-04-15",
+    "commit_amount": 7000,
+    "bestcase_amount": 8500,
+    "pipeline_amount": 12500
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-04-22",
+    "commit_amount": 7000,
+    "bestcase_amount": 8000,
+    "pipeline_amount": 12000
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-04-29",
+    "commit_amount": 6500,
+    "bestcase_amount": 8000,
+    "pipeline_amount": 12000
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-05-06",
+    "commit_amount": 6500,
+    "bestcase_amount": 8500,
+    "pipeline_amount": 13000
+  },
+  {
+    "rep_id": "rep_007",
+    "rep_name": "Sofia Restrepo",
+    "week_of": "2026-05-13",
+    "commit_amount": 6500,
+    "bestcase_amount": 8000,
+    "pipeline_amount": 12500
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-02-25",
+    "commit_amount": 11500,
+    "bestcase_amount": 14000,
+    "pipeline_amount": 21000
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-03-04",
+    "commit_amount": 10500,
+    "bestcase_amount": 12500,
+    "pipeline_amount": 19000
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-03-11",
+    "commit_amount": 11000,
+    "bestcase_amount": 14000,
+    "pipeline_amount": 21000
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-03-18",
+    "commit_amount": 10000,
+    "bestcase_amount": 12500,
+    "pipeline_amount": 19000
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-03-25",
+    "commit_amount": 10000,
+    "bestcase_amount": 13000,
+    "pipeline_amount": 19500
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-04-01",
+    "commit_amount": 10000,
+    "bestcase_amount": 12000,
+    "pipeline_amount": 18000
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-04-08",
+    "commit_amount": 11500,
+    "bestcase_amount": 15500,
+    "pipeline_amount": 23500
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-04-15",
+    "commit_amount": 10000,
+    "bestcase_amount": 12500,
+    "pipeline_amount": 18500
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-04-22",
+    "commit_amount": 11500,
+    "bestcase_amount": 14000,
+    "pipeline_amount": 21500
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-04-29",
+    "commit_amount": 10000,
+    "bestcase_amount": 13000,
+    "pipeline_amount": 19000
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-05-06",
+    "commit_amount": 11000,
+    "bestcase_amount": 14500,
+    "pipeline_amount": 22000
+  },
+  {
+    "rep_id": "rep_008",
+    "rep_name": "Hannes Vogel",
+    "week_of": "2026-05-13",
+    "commit_amount": 10000,
+    "bestcase_amount": 13000,
+    "pipeline_amount": 19500
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-02-25",
+    "commit_amount": 20500,
+    "bestcase_amount": 27000,
+    "pipeline_amount": 40000
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-03-04",
+    "commit_amount": 23000,
+    "bestcase_amount": 27000,
+    "pipeline_amount": 40500
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-03-11",
+    "commit_amount": 23000,
+    "bestcase_amount": 28000,
+    "pipeline_amount": 42000
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-03-18",
+    "commit_amount": 20000,
+    "bestcase_amount": 26000,
+    "pipeline_amount": 39000
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-03-25",
+    "commit_amount": 21000,
+    "bestcase_amount": 26500,
+    "pipeline_amount": 39500
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-04-01",
+    "commit_amount": 24500,
+    "bestcase_amount": 31500,
+    "pipeline_amount": 47500
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-04-08",
+    "commit_amount": 25500,
+    "bestcase_amount": 31000,
+    "pipeline_amount": 46500
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-04-15",
+    "commit_amount": 22000,
+    "bestcase_amount": 25500,
+    "pipeline_amount": 38500
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-04-22",
+    "commit_amount": 24500,
+    "bestcase_amount": 29000,
+    "pipeline_amount": 43000
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-04-29",
+    "commit_amount": 20500,
+    "bestcase_amount": 24500,
+    "pipeline_amount": 36500
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-05-06",
+    "commit_amount": 21000,
+    "bestcase_amount": 27500,
+    "pipeline_amount": 41000
+  },
+  {
+    "rep_id": "rep_009",
+    "rep_name": "Lakshmi Iyer",
+    "week_of": "2026-05-13",
+    "commit_amount": 20000,
+    "bestcase_amount": 26000,
+    "pipeline_amount": 39000
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-02-25",
+    "commit_amount": 17000,
+    "bestcase_amount": 21500,
+    "pipeline_amount": 32500
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-03-04",
+    "commit_amount": 13500,
+    "bestcase_amount": 17500,
+    "pipeline_amount": 26500
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-03-11",
+    "commit_amount": 10000,
+    "bestcase_amount": 12500,
+    "pipeline_amount": 19000
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-03-18",
+    "commit_amount": 17000,
+    "bestcase_amount": 23000,
+    "pipeline_amount": 34500
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-03-25",
+    "commit_amount": 7000,
+    "bestcase_amount": 8500,
+    "pipeline_amount": 12500
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-04-01",
+    "commit_amount": 13000,
+    "bestcase_amount": 15500,
+    "pipeline_amount": 23000
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-04-08",
+    "commit_amount": 10000,
+    "bestcase_amount": 12500,
+    "pipeline_amount": 18500
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-04-15",
+    "commit_amount": 25000,
+    "bestcase_amount": 30000,
+    "pipeline_amount": 45000
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-04-22",
+    "commit_amount": 20000,
+    "bestcase_amount": 25500,
+    "pipeline_amount": 38500
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-04-29",
+    "commit_amount": 24000,
+    "bestcase_amount": 28500,
+    "pipeline_amount": 42500
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-05-06",
+    "commit_amount": 16500,
+    "bestcase_amount": 21000,
+    "pipeline_amount": 32000
+  },
+  {
+    "rep_id": "rep_010",
+    "rep_name": "Wei Chen",
+    "week_of": "2026-05-13",
+    "commit_amount": 15500,
+    "bestcase_amount": 19000,
+    "pipeline_amount": 28000
+  }
+]

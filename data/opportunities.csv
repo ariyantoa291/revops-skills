@@ -1,0 +1,252 @@
+id,name,account_name,owner_id,owner_name,segment,amount,stage,stage_order,probability,forecast_category,close_date,created_date,last_activity_date,next_step,days_since_last_activity,is_closed,is_won
+opp_0001,Acme Corp - Upsell,Acme Corp,rep_001,Aisha Okonkwo,Enterprise,424500,Proposal,3,40,Pipeline,2026-06-27,2026-04-19,2026-05-17,Send mutual close plan for sign-off,3,False,False
+opp_0002,Krusty Krab Dynamics - Expansion,Krusty Krab Dynamics,rep_001,Aisha Okonkwo,Enterprise,296500,Proposal,3,40,Pipeline,2026-08-07,2026-03-25,2026-05-13,Demo the API integration to their eng team,7,False,False
+opp_0003,Quick Stop Systems - New Logo,Quick Stop Systems,rep_001,Aisha Okonkwo,Enterprise,416500,Qualification,2,20,Pipeline,2026-10-11,2026-04-15,2026-05-17,Confirm budget approval from CFO,3,False,False
+opp_0004,Hooli XYZ Systems - Expansion,Hooli XYZ Systems,rep_001,Aisha Okonkwo,Enterprise,123500,Negotiation,4,65,BestCase,2026-06-14,2026-02-13,2026-05-18,Schedule security review with their CISO,2,False,False
+opp_0005,Anaconda Realty Logistics - Expansion,Anaconda Realty Logistics,rep_001,Aisha Okonkwo,Enterprise,287500,Negotiation,4,65,Commit,2026-07-04,2025-09-28,2026-05-19,Confirm budget approval from CFO,1,False,False
+opp_0006,Sterling Cooper Group - Upsell,Sterling Cooper Group,rep_001,Aisha Okonkwo,Enterprise,203000,Negotiation,4,65,Commit,2026-06-16,2025-12-12,2026-05-11,Confirm budget approval from CFO,9,False,False
+opp_0007,Krusty Krab Solutions - New Logo,Krusty Krab Solutions,rep_001,Aisha Okonkwo,Enterprise,340000,Discovery,1,10,Pipeline,2026-08-06,2025-11-09,2026-05-18,Schedule security review with their CISO,2,False,False
+opp_0008,Wayne Robotics - New Logo,Wayne Robotics,rep_001,Aisha Okonkwo,Enterprise,382500,Discovery,1,10,Pipeline,2026-07-19,2026-02-04,2026-05-20,Send mutual close plan for sign-off,0,False,False
+opp_0009,Soylent Group - Upsell,Soylent Group,rep_001,Aisha Okonkwo,Enterprise,429000,Qualification,2,20,Pipeline,2026-10-21,2026-02-22,2026-03-16,Confirm budget approval from CFO,65,False,False
+opp_0010,Umbrella Robotics - Expansion,Umbrella Robotics,rep_001,Aisha Okonkwo,Enterprise,112000,Proposal,3,40,Pipeline,2026-06-25,2026-02-09,2026-03-11,,70,False,False
+opp_0011,Cyberdyne Robotics - Upsell,Cyberdyne Robotics,rep_001,Aisha Okonkwo,Enterprise,145500,Negotiation,4,65,Commit,2026-07-19,2025-11-10,2026-05-10,Send mutual close plan for sign-off,10,False,False
+opp_0012,Wernham Hogg Partners - New Logo,Wernham Hogg Partners,rep_001,Aisha Okonkwo,Enterprise,377000,Discovery,1,10,Pipeline,2026-07-08,2025-09-28,2026-05-13,Send revised SOW reflecting reduced scope,7,False,False
+opp_0013,Hooli Dynamics - Renewal,Hooli Dynamics,rep_001,Aisha Okonkwo,Enterprise,444000,Verbal,5,85,Commit,2026-05-27,2026-04-20,2026-05-14,Demo the API integration to their eng team,6,False,False
+opp_0014,Mom's Friendly Labs - Upsell,Mom's Friendly Labs,rep_001,Aisha Okonkwo,Enterprise,298500,Discovery,1,10,Pipeline,2026-10-08,2025-11-06,2026-05-18,Schedule security review with their CISO,2,False,False
+opp_0015,Wernham Hogg Networks - Upsell,Wernham Hogg Networks,rep_001,Aisha Okonkwo,Enterprise,245500,Proposal,3,40,Pipeline,2026-08-09,2025-10-20,2026-05-17,Confirm budget approval from CFO,3,False,False
+opp_0016,Stark Holdings - New Logo,Stark Holdings,rep_001,Aisha Okonkwo,Enterprise,197000,Negotiation,4,65,Commit,2026-05-31,2026-02-12,2026-05-16,,4,False,False
+opp_0017,Cyberdyne Solutions - New Logo,Cyberdyne Solutions,rep_001,Aisha Okonkwo,Enterprise,88500,Discovery,1,10,Pipeline,2026-09-17,2025-11-08,2026-05-14,,6,False,False
+opp_0018,Vandelay Industries - New Logo,Vandelay Industries,rep_001,Aisha Okonkwo,Enterprise,167000,Negotiation,4,65,BestCase,2026-06-20,2025-11-29,2026-05-10,Send mutual close plan for sign-off,10,False,False
+opp_0019,Massive Dynamic Group - Platform,Massive Dynamic Group,rep_001,Aisha Okonkwo,Enterprise,120000,Proposal,3,40,Pipeline,2026-07-30,2025-11-13,2026-05-17,Send mutual close plan for sign-off,3,False,False
+opp_0020,Bluth Partners - Renewal,Bluth Partners,rep_001,Aisha Okonkwo,Enterprise,320500,Closed Won,6,100,Closed,2026-05-11,2025-10-24,2026-04-29,Demo the API integration to their eng team,21,True,True
+opp_0021,Soylent Partners - Upsell,Soylent Partners,rep_001,Aisha Okonkwo,Enterprise,81500,Closed Lost,7,0,Closed,2026-05-05,2025-10-08,2026-05-14,Send mutual close plan for sign-off,6,True,False
+opp_0022,Bluth Logistics - New Logo,Bluth Logistics,rep_001,Aisha Okonkwo,Enterprise,103000,Negotiation,4,65,BestCase,2026-06-22,2025-09-30,2026-04-26,Demo the API integration to their eng team,24,False,False
+opp_0023,Dunder Mifflin Partners - New Logo,Dunder Mifflin Partners,rep_001,Aisha Okonkwo,Enterprise,303000,Discovery,1,10,Pipeline,2026-10-12,2026-03-26,2026-05-15,Send mutual close plan for sign-off,5,False,False
+opp_0024,LexCorp Logistics - Expansion,LexCorp Logistics,rep_001,Aisha Okonkwo,Enterprise,361500,Discovery,1,10,Pipeline,2026-10-09,2026-03-04,2026-03-26,,55,False,False
+opp_0025,Wernham Hogg Holdings - Expansion,Wernham Hogg Holdings,rep_001,Aisha Okonkwo,Enterprise,157500,Discovery,1,10,Pipeline,2026-06-23,2025-11-17,2026-05-14,Send mutual close plan for sign-off,6,False,False
+opp_0026,Soylent Corp - Upsell,Soylent Corp,rep_002,Diego Marquez,Enterprise,407500,Proposal,3,40,BestCase,2026-08-09,2025-11-01,2026-05-10,Demo the API integration to their eng team,10,False,False
+opp_0027,Stark Bio - Expansion,Stark Bio,rep_002,Diego Marquez,Enterprise,241500,Proposal,3,40,BestCase,2026-06-30,2025-12-21,2026-05-17,Send revised SOW reflecting reduced scope,3,False,False
+opp_0028,Oscorp Technologies - New Logo,Oscorp Technologies,rep_002,Diego Marquez,Enterprise,123500,Discovery,1,10,Pipeline,2026-09-29,2026-02-18,2026-05-07,Demo the API integration to their eng team,13,False,False
+opp_0029,Wernham Hogg Logistics - Expansion,Wernham Hogg Logistics,rep_002,Diego Marquez,Enterprise,314000,Discovery,1,10,Pipeline,2026-09-07,2025-12-06,2026-02-22,,87,False,False
+opp_0030,Buy n Large Dynamics - Expansion,Buy n Large Dynamics,rep_002,Diego Marquez,Enterprise,120500,Discovery,1,10,Pipeline,2026-07-21,2026-01-01,2026-03-19,,62,False,False
+opp_0031,Mooby Health - Expansion,Mooby Health,rep_002,Diego Marquez,Enterprise,262000,Negotiation,4,65,Commit,2026-06-06,2026-03-11,2026-05-13,Follow up on pricing after Friday's call,7,False,False
+opp_0032,Stark Robotics - Expansion,Stark Robotics,rep_002,Diego Marquez,Enterprise,406500,Qualification,2,20,Pipeline,2026-10-15,2025-11-03,2026-05-08,Confirm budget approval from CFO,12,False,False
+opp_0033,Pendant Publishing Technologies - Platform,Pendant Publishing Technologies,rep_002,Diego Marquez,Enterprise,388500,Negotiation,4,65,Commit,2026-07-11,2026-04-05,2026-05-19,Loop in their legal team on MSA redlines,1,False,False
+opp_0034,Sterling Cooper Networks - Expansion,Sterling Cooper Networks,rep_002,Diego Marquez,Enterprise,108500,Discovery,1,10,Pipeline,2026-06-28,2025-12-07,2026-05-20,Schedule security review with their CISO,0,False,False
+opp_0035,Bluestar Holdings - Renewal,Bluestar Holdings,rep_002,Diego Marquez,Enterprise,192500,Verbal,5,85,Commit,2026-06-09,2025-11-08,2026-05-13,,7,False,False
+opp_0036,Bluestar Corp - Upsell,Bluestar Corp,rep_002,Diego Marquez,Enterprise,195500,Discovery,1,10,Pipeline,2026-07-29,2026-04-02,2026-03-13,,68,False,False
+opp_0037,Cyberdyne Bio - Renewal,Cyberdyne Bio,rep_002,Diego Marquez,Enterprise,341500,Proposal,3,40,BestCase,2026-07-05,2025-09-23,2026-05-20,Loop in their legal team on MSA redlines,0,False,False
+opp_0038,Wonka Holdings - New Logo,Wonka Holdings,rep_002,Diego Marquez,Enterprise,192500,Negotiation,4,65,Commit,2026-07-08,2026-03-06,2026-05-17,Send mutual close plan for sign-off,3,False,False
+opp_0039,Vandelay Partners - Platform,Vandelay Partners,rep_002,Diego Marquez,Enterprise,205000,Discovery,1,10,Pipeline,2026-07-13,2026-04-13,2026-05-07,Get verbal commit on close date from buyer,13,False,False
+opp_0040,Mooby Technologies - Renewal,Mooby Technologies,rep_002,Diego Marquez,Enterprise,240500,Negotiation,4,65,Commit,2026-06-12,2025-10-28,2026-05-16,Send mutual close plan for sign-off,4,False,False
+opp_0041,Soylent Bio - Expansion,Soylent Bio,rep_002,Diego Marquez,Enterprise,341000,Discovery,1,10,Pipeline,2026-07-22,2025-10-11,2026-05-08,Follow up on pricing after Friday's call,12,False,False
+opp_0042,Vandelay Solutions - Upsell,Vandelay Solutions,rep_002,Diego Marquez,Enterprise,84500,Discovery,1,10,Pipeline,2026-08-12,2025-09-29,2026-05-20,Loop in their legal team on MSA redlines,0,False,False
+opp_0043,Cyberdyne Corp - Renewal,Cyberdyne Corp,rep_002,Diego Marquez,Enterprise,86500,Verbal,5,85,Commit,2026-05-23,2025-10-14,2026-05-13,Schedule security review with their CISO,7,False,False
+opp_0044,Dunder Mifflin Partners - Upsell,Dunder Mifflin Partners,rep_002,Diego Marquez,Enterprise,312000,Verbal,5,85,Commit,2026-05-26,2025-10-03,2026-05-11,Confirm budget approval from CFO,9,False,False
+opp_0045,Mooby Networks - Upsell,Mooby Networks,rep_002,Diego Marquez,Enterprise,138500,Closed Won,6,100,Closed,2026-04-23,2026-02-09,2026-05-16,Schedule security review with their CISO,4,True,True
+opp_0046,Tyrell Solutions - New Logo,Tyrell Solutions,rep_003,Priya Raman,Mid-Market,71500,Proposal,3,40,Pipeline,2026-06-13,2025-11-13,2026-05-14,Send mutual close plan for sign-off,6,False,False
+opp_0047,Pied Piper Bio - Expansion,Pied Piper Bio,rep_003,Priya Raman,Mid-Market,34000,Qualification,2,20,Pipeline,2026-07-12,2025-10-29,2026-05-11,Confirm budget approval from CFO,9,False,False
+opp_0048,LexCorp Partners - Renewal,LexCorp Partners,rep_003,Priya Raman,Mid-Market,63000,Discovery,1,10,Pipeline,2026-06-20,2025-10-01,2026-05-15,Get verbal commit on close date from buyer,5,False,False
+opp_0049,Pendant Publishing Networks - Expansion,Pendant Publishing Networks,rep_003,Priya Raman,Mid-Market,65500,Discovery,1,10,Pipeline,2026-07-23,2026-01-04,2026-02-24,Loop in their legal team on MSA redlines,85,False,False
+opp_0050,Initech Dynamics - New Logo,Initech Dynamics,rep_003,Priya Raman,Mid-Market,71500,Discovery,1,10,Pipeline,2026-09-16,2025-11-19,2026-05-15,Get verbal commit on close date from buyer,5,False,False
+opp_0051,Stark Partners - New Logo,Stark Partners,rep_003,Priya Raman,Mid-Market,76000,Negotiation,4,65,BestCase,2026-06-11,2025-12-19,2026-05-14,Demo the API integration to their eng team,6,False,False
+opp_0052,Bluth Corp - Expansion,Bluth Corp,rep_003,Priya Raman,Mid-Market,26000,Qualification,2,20,Pipeline,2026-07-08,2025-10-07,2026-05-20,Schedule security review with their CISO,0,False,False
+opp_0053,Pendant Publishing Group - Renewal,Pendant Publishing Group,rep_003,Priya Raman,Mid-Market,93000,Closed Won,6,100,Closed,2026-04-25,2025-09-27,2026-03-23,,58,True,True
+opp_0054,Wonka Analytics - Platform,Wonka Analytics,rep_003,Priya Raman,Mid-Market,61500,Discovery,1,10,Pipeline,2026-07-14,2025-12-28,2026-05-18,,2,False,False
+opp_0055,Soylent Labs - New Logo,Soylent Labs,rep_003,Priya Raman,Mid-Market,82500,Qualification,2,20,Pipeline,2026-09-04,2025-12-23,2026-05-20,Schedule security review with their CISO,0,False,False
+opp_0056,Mom's Friendly Holdings - Upsell,Mom's Friendly Holdings,rep_003,Priya Raman,Mid-Market,59000,Closed Won,6,100,Closed,2026-05-01,2026-01-15,2026-05-07,Get verbal commit on close date from buyer,13,True,True
+opp_0057,Oscorp Industries - Expansion,Oscorp Industries,rep_003,Priya Raman,Mid-Market,66500,Proposal,3,40,Pipeline,2026-07-18,2025-12-01,2026-05-07,Schedule security review with their CISO,13,False,False
+opp_0058,Globex Health - Expansion,Globex Health,rep_003,Priya Raman,Mid-Market,52000,Closed Won,6,100,Closed,2026-04-23,2025-09-19,2026-05-12,Send revised SOW reflecting reduced scope,8,True,True
+opp_0059,Mooby Corp - Platform,Mooby Corp,rep_003,Priya Raman,Mid-Market,49000,Negotiation,4,65,BestCase,2026-07-14,2026-03-13,2026-03-05,Follow up on pricing after Friday's call,76,False,False
+opp_0060,Quick Stop Holdings - New Logo,Quick Stop Holdings,rep_003,Priya Raman,Mid-Market,57500,Discovery,1,10,Pipeline,2026-07-25,2025-11-29,2026-05-06,Send mutual close plan for sign-off,14,False,False
+opp_0061,Initech Industries - Renewal,Initech Industries,rep_003,Priya Raman,Mid-Market,52500,Negotiation,4,65,BestCase,2026-06-04,2026-01-29,2026-04-28,Loop in their legal team on MSA redlines,22,False,False
+opp_0062,Stark Technologies - Upsell,Stark Technologies,rep_003,Priya Raman,Mid-Market,57000,Closed Won,6,100,Closed,2026-04-26,2025-11-10,2026-02-21,,88,True,True
+opp_0063,Sudden Valley Corp - Renewal,Sudden Valley Corp,rep_003,Priya Raman,Mid-Market,87500,Proposal,3,40,Pipeline,2026-06-11,2025-11-13,2026-05-08,Schedule security review with their CISO,12,False,False
+opp_0064,Pendant Publishing Systems - Expansion,Pendant Publishing Systems,rep_003,Priya Raman,Mid-Market,35000,Discovery,1,10,Pipeline,2026-10-04,2026-01-21,2026-05-17,Send mutual close plan for sign-off,3,False,False
+opp_0065,LexCorp Networks - New Logo,LexCorp Networks,rep_003,Priya Raman,Mid-Market,64000,Proposal,3,40,Pipeline,2026-06-16,2025-10-07,2026-04-14,,36,False,False
+opp_0066,Globex Bio - New Logo,Globex Bio,rep_003,Priya Raman,Mid-Market,20000,Proposal,3,40,Pipeline,2026-06-27,2026-01-21,2026-05-11,Get verbal commit on close date from buyer,9,False,False
+opp_0067,Oscorp Labs - New Logo,Oscorp Labs,rep_003,Priya Raman,Mid-Market,34000,Negotiation,4,65,BestCase,2026-06-25,2026-02-19,2026-03-16,,65,False,False
+opp_0068,Mooby Logistics - Upsell,Mooby Logistics,rep_003,Priya Raman,Mid-Market,93500,Negotiation,4,65,BestCase,2026-06-03,2026-02-26,2026-05-17,Follow up on pricing after Friday's call,3,False,False
+opp_0069,Initech Systems - Renewal,Initech Systems,rep_003,Priya Raman,Mid-Market,89000,Proposal,3,40,Pipeline,2026-06-27,2026-01-11,2026-05-12,Send mutual close plan for sign-off,8,False,False
+opp_0070,Sudden Valley Solutions - Renewal,Sudden Valley Solutions,rep_003,Priya Raman,Mid-Market,35000,Qualification,2,20,Pipeline,2026-11-11,2026-02-07,2026-04-23,,27,False,False
+opp_0071,Umbrella Labs - Renewal,Umbrella Labs,rep_003,Priya Raman,Mid-Market,39500,Proposal,3,40,Pipeline,2026-08-08,2025-11-23,2026-05-13,,7,False,False
+opp_0072,Initech Networks - New Logo,Initech Networks,rep_004,Tomas Lindgren,Mid-Market,46500,Qualification,2,20,Pipeline,2026-08-09,2026-02-08,2026-05-20,Get verbal commit on close date from buyer,0,False,False
+opp_0073,Massive Dynamic Networks - Renewal,Massive Dynamic Networks,rep_004,Tomas Lindgren,Mid-Market,44500,Proposal,3,40,BestCase,2026-07-19,2026-01-07,2026-05-19,Demo the API integration to their eng team,1,False,False
+opp_0074,Bluestar Dynamics - Expansion,Bluestar Dynamics,rep_004,Tomas Lindgren,Mid-Market,39000,Proposal,3,40,BestCase,2026-06-28,2025-10-06,2026-05-19,Schedule security review with their CISO,1,False,False
+opp_0075,Anaconda Realty Systems - New Logo,Anaconda Realty Systems,rep_004,Tomas Lindgren,Mid-Market,49000,Closed Won,6,100,Closed,2026-04-21,2025-12-15,2026-05-10,Send mutual close plan for sign-off,10,True,True
+opp_0076,Krusty Krab Systems - New Logo,Krusty Krab Systems,rep_004,Tomas Lindgren,Mid-Market,91000,Closed Lost,7,0,Closed,2026-05-10,2025-11-26,2026-05-19,Send mutual close plan for sign-off,1,True,False
+opp_0077,Globex Analytics - New Logo,Globex Analytics,rep_004,Tomas Lindgren,Mid-Market,71000,Qualification,2,20,Pipeline,2026-07-22,2026-02-21,2026-05-11,Send revised SOW reflecting reduced scope,9,False,False
+opp_0078,Oscorp Bio - Platform,Oscorp Bio,rep_004,Tomas Lindgren,Mid-Market,64000,Proposal,3,40,BestCase,2026-07-17,2025-10-05,2026-05-15,Schedule security review with their CISO,5,False,False
+opp_0079,Buy n Large Health - Upsell,Buy n Large Health,rep_004,Tomas Lindgren,Mid-Market,92000,Qualification,2,20,Pipeline,2026-09-17,2025-10-01,2026-05-15,Follow up on pricing after Friday's call,5,False,False
+opp_0080,Krusty Krab Solutions - Renewal,Krusty Krab Solutions,rep_004,Tomas Lindgren,Mid-Market,27000,Closed Lost,7,0,Closed,2026-04-23,2026-03-22,2026-05-12,Schedule security review with their CISO,8,True,False
+opp_0081,Initech Networks - Renewal,Initech Networks,rep_004,Tomas Lindgren,Mid-Market,61000,Verbal,5,85,Commit,2026-06-08,2026-02-06,2026-05-08,Loop in their legal team on MSA redlines,12,False,False
+opp_0082,Bluth Group - New Logo,Bluth Group,rep_004,Tomas Lindgren,Mid-Market,47500,Proposal,3,40,BestCase,2026-07-05,2026-04-14,2026-05-06,Loop in their legal team on MSA redlines,14,False,False
+opp_0083,Sterling Cooper Analytics - Expansion,Sterling Cooper Analytics,rep_004,Tomas Lindgren,Mid-Market,39500,Qualification,2,20,Pipeline,2026-08-22,2025-11-30,2026-05-08,Follow up on pricing after Friday's call,12,False,False
+opp_0084,Cyberdyne Analytics - Upsell,Cyberdyne Analytics,rep_004,Tomas Lindgren,Mid-Market,28500,Discovery,1,10,Pipeline,2026-06-28,2025-11-30,2026-04-28,Get verbal commit on close date from buyer,22,False,False
+opp_0085,Wernham Hogg Solutions - Upsell,Wernham Hogg Solutions,rep_004,Tomas Lindgren,Mid-Market,35000,Discovery,1,10,Pipeline,2026-10-11,2025-11-29,2026-05-10,Get verbal commit on close date from buyer,10,False,False
+opp_0086,Oscorp Solutions - Platform,Oscorp Solutions,rep_004,Tomas Lindgren,Mid-Market,88500,Proposal,3,40,BestCase,2026-06-26,2025-10-26,2026-05-16,Demo the API integration to their eng team,4,False,False
+opp_0087,Stark Robotics - Platform,Stark Robotics,rep_004,Tomas Lindgren,Mid-Market,87500,Verbal,5,85,Commit,2026-06-09,2025-12-14,2026-04-08,Loop in their legal team on MSA redlines,42,False,False
+opp_0088,Aviato Partners - Expansion,Aviato Partners,rep_004,Tomas Lindgren,Mid-Market,89000,Negotiation,4,65,Commit,2026-06-12,2025-11-10,2026-05-15,Loop in their legal team on MSA redlines,5,False,False
+opp_0089,Pied Piper Capital - New Logo,Pied Piper Capital,rep_004,Tomas Lindgren,Mid-Market,20500,Closed Lost,7,0,Closed,2026-05-05,2026-03-31,2026-05-09,Schedule security review with their CISO,11,True,False
+opp_0090,Pendant Publishing Systems - Platform,Pendant Publishing Systems,rep_004,Tomas Lindgren,Mid-Market,88500,Proposal,3,40,BestCase,2026-08-04,2025-11-04,2026-05-07,Demo the API integration to their eng team,13,False,False
+opp_0091,Oscorp Holdings - New Logo,Oscorp Holdings,rep_004,Tomas Lindgren,Mid-Market,72500,Negotiation,4,65,Commit,2026-07-14,2026-02-19,2026-05-10,Schedule security review with their CISO,10,False,False
+opp_0092,Bluestar Robotics - Expansion,Bluestar Robotics,rep_004,Tomas Lindgren,Mid-Market,77500,Discovery,1,10,Pipeline,2026-11-07,2026-01-12,2026-04-19,Schedule security review with their CISO,31,False,False
+opp_0093,Dunder Mifflin Technologies - New Logo,Dunder Mifflin Technologies,rep_004,Tomas Lindgren,Mid-Market,34500,Negotiation,4,65,Commit,2026-07-02,2026-02-13,2026-05-09,Follow up on pricing after Friday's call,11,False,False
+opp_0094,LexCorp Technologies - Renewal,LexCorp Technologies,rep_005,Yuki Tanaka,Mid-Market,50000,Closed Lost,7,0,Closed,2026-05-02,2025-10-14,2026-05-08,Schedule security review with their CISO,12,True,False
+opp_0095,Globex Holdings - Expansion,Globex Holdings,rep_005,Yuki Tanaka,Mid-Market,55000,Qualification,2,20,Pipeline,2026-11-06,2026-01-17,2026-05-14,,6,False,False
+opp_0096,Umbrella Dynamics - Renewal,Umbrella Dynamics,rep_005,Yuki Tanaka,Mid-Market,33000,Negotiation,4,65,Commit,2026-07-18,2026-01-14,2026-05-13,Schedule security review with their CISO,7,False,False
+opp_0097,Pied Piper Industries - Platform,Pied Piper Industries,rep_005,Yuki Tanaka,Mid-Market,29000,Verbal,5,85,Commit,2026-06-06,2026-04-16,2026-05-20,Send revised SOW reflecting reduced scope,0,False,False
+opp_0098,Dunder Mifflin Holdings - Expansion,Dunder Mifflin Holdings,rep_005,Yuki Tanaka,Mid-Market,47500,Negotiation,4,65,Commit,2026-06-23,2025-10-24,2026-05-20,Loop in their legal team on MSA redlines,0,False,False
+opp_0099,Dunder Mifflin Capital - Platform,Dunder Mifflin Capital,rep_005,Yuki Tanaka,Mid-Market,37500,Qualification,2,20,Pipeline,2026-07-27,2026-01-07,2026-05-09,Demo the API integration to their eng team,11,False,False
+opp_0100,Mom's Friendly Capital - New Logo,Mom's Friendly Capital,rep_005,Yuki Tanaka,Mid-Market,19000,Qualification,2,20,Pipeline,2026-11-07,2025-12-16,2026-05-13,Follow up on pricing after Friday's call,7,False,False
+opp_0101,Sterling Cooper Partners - Expansion,Sterling Cooper Partners,rep_005,Yuki Tanaka,Mid-Market,50500,Proposal,3,40,Pipeline,2026-06-18,2025-09-22,2026-05-12,Schedule security review with their CISO,8,False,False
+opp_0102,Globex Networks - Upsell,Globex Networks,rep_005,Yuki Tanaka,Mid-Market,84000,Discovery,1,10,Pipeline,2026-09-11,2026-02-05,2026-05-13,Get verbal commit on close date from buyer,7,False,False
+opp_0103,Cyberdyne Holdings - New Logo,Cyberdyne Holdings,rep_005,Yuki Tanaka,Mid-Market,81000,Negotiation,4,65,Commit,2026-07-11,2025-11-24,2026-05-15,,5,False,False
+opp_0104,Acme Corp - New Logo,Acme Corp,rep_005,Yuki Tanaka,Mid-Market,72000,Discovery,1,10,Pipeline,2026-07-27,2025-11-20,2026-05-08,,12,False,False
+opp_0105,Pendant Publishing Dynamics - New Logo,Pendant Publishing Dynamics,rep_005,Yuki Tanaka,Mid-Market,63000,Proposal,3,40,Pipeline,2026-07-07,2025-11-08,2026-05-17,Get verbal commit on close date from buyer,3,False,False
+opp_0106,Oscorp Logistics - Renewal,Oscorp Logistics,rep_005,Yuki Tanaka,Mid-Market,93000,Verbal,5,85,Commit,2026-06-05,2026-03-16,2026-05-07,Follow up on pricing after Friday's call,13,False,False
+opp_0107,Tyrell Health - Upsell,Tyrell Health,rep_005,Yuki Tanaka,Mid-Market,94500,Qualification,2,20,Pipeline,2026-08-01,2026-04-11,2026-05-19,Loop in their legal team on MSA redlines,1,False,False
+opp_0108,Bluth Corp - Expansion,Bluth Corp,rep_005,Yuki Tanaka,Mid-Market,23500,Discovery,1,10,Pipeline,2026-09-07,2025-11-13,2026-05-19,Get verbal commit on close date from buyer,1,False,False
+opp_0109,Initech Health - Renewal,Initech Health,rep_005,Yuki Tanaka,Mid-Market,61000,Negotiation,4,65,Commit,2026-06-28,2026-02-18,2026-05-20,Send mutual close plan for sign-off,0,False,False
+opp_0110,LexCorp Industries - Upsell,LexCorp Industries,rep_005,Yuki Tanaka,Mid-Market,65000,Closed Won,6,100,Closed,2026-05-10,2026-02-24,2026-05-12,Confirm budget approval from CFO,8,True,True
+opp_0111,Bluestar Holdings - Expansion,Bluestar Holdings,rep_005,Yuki Tanaka,Mid-Market,63000,Closed Won,6,100,Closed,2026-05-05,2025-10-20,2026-05-12,Send mutual close plan for sign-off,8,True,True
+opp_0112,Mom's Friendly Systems - New Logo,Mom's Friendly Systems,rep_005,Yuki Tanaka,Mid-Market,30500,Proposal,3,40,Pipeline,2026-07-01,2026-03-17,2026-05-19,Loop in their legal team on MSA redlines,1,False,False
+opp_0113,Hooli Technologies - Platform,Hooli Technologies,rep_005,Yuki Tanaka,Mid-Market,39500,Negotiation,4,65,Commit,2026-06-15,2025-09-22,2026-05-08,,12,False,False
+opp_0114,Planet Express Solutions - Renewal,Planet Express Solutions,rep_005,Yuki Tanaka,Mid-Market,65500,Closed Lost,7,0,Closed,2026-04-30,2025-12-25,2026-05-11,Loop in their legal team on MSA redlines,9,True,False
+opp_0115,Massive Dynamic Networks - Expansion,Massive Dynamic Networks,rep_005,Yuki Tanaka,Mid-Market,55000,Verbal,5,85,Commit,2026-05-28,2026-01-11,2026-03-10,,71,False,False
+opp_0116,Sudden Valley Health - Upsell,Sudden Valley Health,rep_005,Yuki Tanaka,Mid-Market,35000,Qualification,2,20,Pipeline,2026-10-23,2026-01-13,2026-05-08,Loop in their legal team on MSA redlines,12,False,False
+opp_0117,Wonka Corp - Upsell,Wonka Corp,rep_005,Yuki Tanaka,Mid-Market,60000,Discovery,1,10,Pipeline,2026-07-23,2026-01-24,2026-05-17,Schedule security review with their CISO,3,False,False
+opp_0118,Massive Dynamic Analytics - Renewal,Massive Dynamic Analytics,rep_005,Yuki Tanaka,Mid-Market,50000,Verbal,5,85,Commit,2026-05-24,2026-01-01,2026-05-18,Demo the API integration to their eng team,2,False,False
+opp_0119,Oscorp Systems - Upsell,Oscorp Systems,rep_005,Yuki Tanaka,Mid-Market,38000,Closed Won,6,100,Closed,2026-04-24,2025-09-27,2026-05-08,,12,True,True
+opp_0120,Planet Express Solutions - Upsell,Planet Express Solutions,rep_005,Yuki Tanaka,Mid-Market,43000,Proposal,3,40,Pipeline,2026-06-19,2025-09-25,2026-05-06,Follow up on pricing after Friday's call,14,False,False
+opp_0121,Bluth Robotics - Renewal,Bluth Robotics,rep_005,Yuki Tanaka,Mid-Market,36500,Discovery,1,10,Pipeline,2026-10-18,2025-11-18,2026-05-10,Loop in their legal team on MSA redlines,10,False,False
+opp_0122,Oscorp Technologies - Renewal,Oscorp Technologies,rep_006,Marcus Bell,Commercial,10500,Proposal,3,40,Pipeline,2026-07-28,2026-03-18,2026-03-14,,67,False,False
+opp_0123,Stark Capital - New Logo,Stark Capital,rep_006,Marcus Bell,Commercial,7000,Discovery,1,10,Pipeline,2026-09-11,2026-03-07,2026-05-20,Loop in their legal team on MSA redlines,0,False,False
+opp_0124,Bluth Networks - Renewal,Bluth Networks,rep_006,Marcus Bell,Commercial,12500,Qualification,2,20,Pipeline,2026-11-13,2025-10-09,2026-04-28,Follow up on pricing after Friday's call,22,False,False
+opp_0125,Hooli XYZ Technologies - Expansion,Hooli XYZ Technologies,rep_006,Marcus Bell,Commercial,22500,Discovery,1,10,Pipeline,2026-07-19,2026-02-21,2026-05-09,Get verbal commit on close date from buyer,11,False,False
+opp_0126,Oscorp Industries - New Logo,Oscorp Industries,rep_006,Marcus Bell,Commercial,9500,Discovery,1,10,Pipeline,2026-08-21,2026-03-27,2026-05-16,Send mutual close plan for sign-off,4,False,False
+opp_0127,Initech Group - Renewal,Initech Group,rep_006,Marcus Bell,Commercial,9500,Proposal,3,40,Pipeline,2026-07-21,2026-03-30,2026-05-06,Send revised SOW reflecting reduced scope,14,False,False
+opp_0128,Planet Express Networks - Platform,Planet Express Networks,rep_006,Marcus Bell,Commercial,12500,Proposal,3,40,Pipeline,2026-06-17,2026-02-08,2026-05-17,Confirm budget approval from CFO,3,False,False
+opp_0129,Umbrella Logistics - Upsell,Umbrella Logistics,rep_006,Marcus Bell,Commercial,5000,Discovery,1,10,Pipeline,2026-07-28,2026-02-16,2026-03-02,,79,False,False
+opp_0130,Pied Piper Robotics - Platform,Pied Piper Robotics,rep_006,Marcus Bell,Commercial,26000,Proposal,3,40,Pipeline,2026-07-27,2026-02-09,2026-05-19,Schedule security review with their CISO,1,False,False
+opp_0131,Pied Piper Corp - Upsell,Pied Piper Corp,rep_006,Marcus Bell,Commercial,26500,Closed Won,6,100,Closed,2026-05-17,2025-12-17,2026-05-15,Send revised SOW reflecting reduced scope,5,True,True
+opp_0132,Acme Logistics - Expansion,Acme Logistics,rep_006,Marcus Bell,Commercial,20000,Discovery,1,10,Pipeline,2026-10-17,2025-11-16,2026-05-06,Confirm budget approval from CFO,14,False,False
+opp_0133,Acme Solutions - Renewal,Acme Solutions,rep_006,Marcus Bell,Commercial,5000,Verbal,5,85,Commit,2026-05-23,2025-10-01,2026-04-15,,35,False,False
+opp_0134,Aviato Capital - New Logo,Aviato Capital,rep_006,Marcus Bell,Commercial,19000,Negotiation,4,65,Commit,2026-06-26,2025-10-20,2026-03-09,,72,False,False
+opp_0135,Pendant Publishing Bio - Expansion,Pendant Publishing Bio,rep_006,Marcus Bell,Commercial,9500,Proposal,3,40,Pipeline,2026-07-31,2026-03-06,2026-03-26,Follow up on pricing after Friday's call,55,False,False
+opp_0136,Bluestar Capital - Upsell,Bluestar Capital,rep_006,Marcus Bell,Commercial,15000,Discovery,1,10,Pipeline,2026-07-25,2025-11-12,2026-05-10,Schedule security review with their CISO,10,False,False
+opp_0137,Initech Group - Renewal,Initech Group,rep_006,Marcus Bell,Commercial,10500,Proposal,3,40,Pipeline,2026-07-19,2026-01-29,2026-03-13,Get verbal commit on close date from buyer,68,False,False
+opp_0138,Cyberdyne Logistics - Upsell,Cyberdyne Logistics,rep_006,Marcus Bell,Commercial,7000,Negotiation,4,65,BestCase,2026-05-30,2026-01-11,2026-05-20,Demo the API integration to their eng team,0,False,False
+opp_0139,Hooli XYZ Holdings - Expansion,Hooli XYZ Holdings,rep_006,Marcus Bell,Commercial,25500,Negotiation,4,65,Commit,2026-06-13,2025-11-16,2026-04-23,,27,False,False
+opp_0140,Globex Health - Renewal,Globex Health,rep_006,Marcus Bell,Commercial,24500,Qualification,2,20,Pipeline,2026-08-30,2025-10-31,2026-04-17,Send mutual close plan for sign-off,33,False,False
+opp_0141,Aviato Dynamics - Platform,Aviato Dynamics,rep_006,Marcus Bell,Commercial,11500,Verbal,5,85,Commit,2026-06-11,2026-03-02,2026-05-17,Loop in their legal team on MSA redlines,3,False,False
+opp_0142,Pied Piper Health - Expansion,Pied Piper Health,rep_006,Marcus Bell,Commercial,8500,Discovery,1,10,Pipeline,2026-11-15,2025-10-10,2026-03-08,,73,False,False
+opp_0143,Wonka Networks - New Logo,Wonka Networks,rep_006,Marcus Bell,Commercial,19500,Proposal,3,40,Pipeline,2026-07-02,2025-11-29,2026-05-13,Confirm budget approval from CFO,7,False,False
+opp_0144,Globex Systems - Upsell,Globex Systems,rep_006,Marcus Bell,Commercial,19500,Proposal,3,40,Pipeline,2026-07-07,2025-11-26,2026-05-07,Send revised SOW reflecting reduced scope,13,False,False
+opp_0145,Initech Technologies - Upsell,Initech Technologies,rep_006,Marcus Bell,Commercial,22000,Verbal,5,85,Commit,2026-05-31,2025-12-18,2026-03-01,Demo the API integration to their eng team,80,False,False
+opp_0146,Dunder Mifflin Robotics - Renewal,Dunder Mifflin Robotics,rep_006,Marcus Bell,Commercial,5500,Proposal,3,40,Pipeline,2026-07-10,2025-12-24,2026-03-24,Schedule security review with their CISO,57,False,False
+opp_0147,Pied Piper Robotics - Renewal,Pied Piper Robotics,rep_006,Marcus Bell,Commercial,19500,Proposal,3,40,Pipeline,2026-06-14,2025-10-21,2026-03-24,Follow up on pricing after Friday's call,57,False,False
+opp_0148,Pendant Publishing Robotics - Expansion,Pendant Publishing Robotics,rep_006,Marcus Bell,Commercial,13500,Verbal,5,85,Commit,2026-06-01,2026-03-14,2026-05-06,Schedule security review with their CISO,14,False,False
+opp_0149,Planet Express Labs - Renewal,Planet Express Labs,rep_006,Marcus Bell,Commercial,10500,Proposal,3,40,Pipeline,2026-08-04,2025-10-10,2026-05-17,Demo the API integration to their eng team,3,False,False
+opp_0150,Aviato Labs - Renewal,Aviato Labs,rep_006,Marcus Bell,Commercial,25000,Discovery,1,10,Pipeline,2026-08-28,2026-04-09,2026-05-11,Send revised SOW reflecting reduced scope,9,False,False
+opp_0151,Krusty Krab Systems - Platform,Krusty Krab Systems,rep_007,Sofia Restrepo,Commercial,10500,Proposal,3,40,Pipeline,2026-06-17,2025-11-26,2026-05-07,Send mutual close plan for sign-off,13,False,False
+opp_0152,Umbrella Group - Expansion,Umbrella Group,rep_007,Sofia Restrepo,Commercial,12000,Closed Won,6,100,Closed,2026-04-21,2025-10-13,2026-05-12,Confirm budget approval from CFO,8,True,True
+opp_0153,Acme Systems - Expansion,Acme Systems,rep_007,Sofia Restrepo,Commercial,7000,Discovery,1,10,Pipeline,2026-09-05,2026-02-15,2026-05-17,Loop in their legal team on MSA redlines,3,False,False
+opp_0154,Cyberdyne Health - Renewal,Cyberdyne Health,rep_007,Sofia Restrepo,Commercial,13500,Discovery,1,10,Pipeline,2026-09-06,2026-04-10,2026-04-20,,30,False,False
+opp_0155,Hooli Capital - Renewal,Hooli Capital,rep_007,Sofia Restrepo,Commercial,8500,Proposal,3,40,Pipeline,2026-07-24,2026-02-02,2026-05-13,Send revised SOW reflecting reduced scope,7,False,False
+opp_0156,Quick Stop Networks - New Logo,Quick Stop Networks,rep_007,Sofia Restrepo,Commercial,14000,Verbal,5,85,Commit,2026-06-05,2026-02-16,2026-05-14,Confirm budget approval from CFO,6,False,False
+opp_0157,Aviato Analytics - New Logo,Aviato Analytics,rep_007,Sofia Restrepo,Commercial,5000,Negotiation,4,65,Commit,2026-06-16,2026-02-09,2026-03-15,,66,False,False
+opp_0158,Aviato Robotics - Renewal,Aviato Robotics,rep_007,Sofia Restrepo,Commercial,14500,Negotiation,4,65,Commit,2026-05-31,2025-10-08,2026-05-09,Schedule security review with their CISO,11,False,False
+opp_0159,Quick Stop Holdings - Renewal,Quick Stop Holdings,rep_007,Sofia Restrepo,Commercial,13000,Negotiation,4,65,Commit,2026-07-05,2025-11-04,2026-05-15,Confirm budget approval from CFO,5,False,False
+opp_0160,Bluth Robotics - Platform,Bluth Robotics,rep_007,Sofia Restrepo,Commercial,6500,Proposal,3,40,Pipeline,2026-07-29,2026-01-13,2026-05-11,Demo the API integration to their eng team,9,False,False
+opp_0161,Aviato Labs - Upsell,Aviato Labs,rep_007,Sofia Restrepo,Commercial,10500,Negotiation,4,65,Commit,2026-06-17,2026-01-12,2026-05-18,Send revised SOW reflecting reduced scope,2,False,False
+opp_0162,Pied Piper Labs - Expansion,Pied Piper Labs,rep_007,Sofia Restrepo,Commercial,24500,Discovery,1,10,Pipeline,2026-08-14,2026-01-28,2026-05-06,Schedule security review with their CISO,14,False,False
+opp_0163,Pied Piper Logistics - Platform,Pied Piper Logistics,rep_007,Sofia Restrepo,Commercial,20000,Proposal,3,40,Pipeline,2026-07-09,2025-12-05,2026-05-13,Follow up on pricing after Friday's call,7,False,False
+opp_0164,Tyrell Health - Renewal,Tyrell Health,rep_007,Sofia Restrepo,Commercial,16000,Qualification,2,20,Pipeline,2026-10-26,2026-01-15,2026-05-09,Demo the API integration to their eng team,11,False,False
+opp_0165,Wernham Hogg Dynamics - Expansion,Wernham Hogg Dynamics,rep_007,Sofia Restrepo,Commercial,14500,Closed Won,6,100,Closed,2026-05-04,2025-10-26,2026-05-17,Demo the API integration to their eng team,3,True,True
+opp_0166,Sterling Cooper Networks - Platform,Sterling Cooper Networks,rep_007,Sofia Restrepo,Commercial,11500,Proposal,3,40,Pipeline,2026-07-08,2025-10-27,2026-05-19,,1,False,False
+opp_0167,Sudden Valley Systems - Platform,Sudden Valley Systems,rep_007,Sofia Restrepo,Commercial,26500,Qualification,2,20,Pipeline,2026-10-28,2026-02-23,2026-05-16,Demo the API integration to their eng team,4,False,False
+opp_0168,Massive Dynamic Bio - Expansion,Massive Dynamic Bio,rep_007,Sofia Restrepo,Commercial,20000,Negotiation,4,65,BestCase,2026-07-14,2025-11-06,2026-04-22,,28,False,False
+opp_0169,Hooli Robotics - Platform,Hooli Robotics,rep_007,Sofia Restrepo,Commercial,15500,Discovery,1,10,Pipeline,2026-08-19,2025-12-01,2026-05-09,Send revised SOW reflecting reduced scope,11,False,False
+opp_0170,Anaconda Realty Industries - New Logo,Anaconda Realty Industries,rep_007,Sofia Restrepo,Commercial,12000,Discovery,1,10,Pipeline,2026-10-25,2025-11-05,2026-05-19,Follow up on pricing after Friday's call,1,False,False
+opp_0171,Anaconda Realty Partners - Expansion,Anaconda Realty Partners,rep_007,Sofia Restrepo,Commercial,13500,Discovery,1,10,Pipeline,2026-10-19,2026-01-20,2026-04-01,,49,False,False
+opp_0172,Sudden Valley Health - Renewal,Sudden Valley Health,rep_007,Sofia Restrepo,Commercial,9500,Negotiation,4,65,Commit,2026-06-20,2025-12-12,2026-05-15,Loop in their legal team on MSA redlines,5,False,False
+opp_0173,Hooli XYZ Analytics - New Logo,Hooli XYZ Analytics,rep_007,Sofia Restrepo,Commercial,15500,Discovery,1,10,Pipeline,2026-09-22,2026-04-11,2026-05-08,Loop in their legal team on MSA redlines,12,False,False
+opp_0174,Pied Piper Group - Expansion,Pied Piper Group,rep_007,Sofia Restrepo,Commercial,11000,Discovery,1,10,Pipeline,2026-07-08,2026-02-09,2026-05-11,Send revised SOW reflecting reduced scope,9,False,False
+opp_0175,Massive Dynamic Robotics - New Logo,Massive Dynamic Robotics,rep_007,Sofia Restrepo,Commercial,17500,Negotiation,4,65,BestCase,2026-05-30,2025-10-06,2026-05-12,Follow up on pricing after Friday's call,8,False,False
+opp_0176,Mooby Dynamics - Expansion,Mooby Dynamics,rep_008,Hannes Vogel,Commercial,13000,Negotiation,4,65,Commit,2026-07-10,2025-11-26,2026-05-17,Follow up on pricing after Friday's call,3,False,False
+opp_0177,Hooli Technologies - Platform,Hooli Technologies,rep_008,Hannes Vogel,Commercial,14000,Discovery,1,10,Pipeline,2026-07-12,2026-04-12,2026-05-15,Schedule security review with their CISO,5,False,False
+opp_0178,Sterling Cooper Labs - New Logo,Sterling Cooper Labs,rep_008,Hannes Vogel,Commercial,16000,Negotiation,4,65,Commit,2026-06-16,2025-12-15,2026-05-14,Schedule security review with their CISO,6,False,False
+opp_0179,Buy n Large Holdings - Upsell,Buy n Large Holdings,rep_008,Hannes Vogel,Commercial,14500,Closed Won,6,100,Closed,2026-05-12,2025-09-30,2026-05-12,Get verbal commit on close date from buyer,8,True,True
+opp_0180,Krusty Krab Logistics - Renewal,Krusty Krab Logistics,rep_008,Hannes Vogel,Commercial,27000,Qualification,2,20,Pipeline,2026-11-07,2025-11-20,2026-02-23,,86,False,False
+opp_0181,Anaconda Realty Robotics - Platform,Anaconda Realty Robotics,rep_008,Hannes Vogel,Commercial,12000,Negotiation,4,65,Commit,2026-07-01,2026-04-05,2026-05-10,Confirm budget approval from CFO,10,False,False
+opp_0182,Oscorp Labs - Upsell,Oscorp Labs,rep_008,Hannes Vogel,Commercial,14500,Qualification,2,20,Pipeline,2026-08-29,2025-11-25,2026-05-13,Follow up on pricing after Friday's call,7,False,False
+opp_0183,Acme Systems - Upsell,Acme Systems,rep_008,Hannes Vogel,Commercial,6000,Discovery,1,10,Pipeline,2026-07-21,2025-12-21,2026-05-11,Send mutual close plan for sign-off,9,False,False
+opp_0184,LexCorp Holdings - Upsell,LexCorp Holdings,rep_008,Hannes Vogel,Commercial,26500,Negotiation,4,65,Commit,2026-06-02,2026-03-05,2026-05-08,Schedule security review with their CISO,12,False,False
+opp_0185,Umbrella Capital - Upsell,Umbrella Capital,rep_008,Hannes Vogel,Commercial,19500,Discovery,1,10,Pipeline,2026-07-19,2025-09-26,2026-05-10,Follow up on pricing after Friday's call,10,False,False
+opp_0186,Umbrella Labs - Expansion,Umbrella Labs,rep_008,Hannes Vogel,Commercial,23000,Verbal,5,85,Commit,2026-06-02,2026-01-24,2026-05-08,Send mutual close plan for sign-off,12,False,False
+opp_0187,Planet Express Partners - Platform,Planet Express Partners,rep_008,Hannes Vogel,Commercial,9000,Proposal,3,40,BestCase,2026-06-29,2025-10-30,2026-05-12,Get verbal commit on close date from buyer,8,False,False
+opp_0188,Initech Labs - Renewal,Initech Labs,rep_008,Hannes Vogel,Commercial,12500,Proposal,3,40,BestCase,2026-07-23,2026-02-13,2026-05-07,Demo the API integration to their eng team,13,False,False
+opp_0189,Planet Express Group - Platform,Planet Express Group,rep_008,Hannes Vogel,Commercial,16000,Verbal,5,85,Commit,2026-05-28,2025-10-01,2026-05-16,Get verbal commit on close date from buyer,4,False,False
+opp_0190,Sterling Cooper Bio - New Logo,Sterling Cooper Bio,rep_008,Hannes Vogel,Commercial,6500,Proposal,3,40,BestCase,2026-06-28,2025-11-03,2026-03-14,,67,False,False
+opp_0191,Hooli XYZ Health - Expansion,Hooli XYZ Health,rep_008,Hannes Vogel,Commercial,21000,Closed Lost,7,0,Closed,2026-04-25,2026-02-12,2026-04-04,Send revised SOW reflecting reduced scope,46,True,False
+opp_0192,Hooli Logistics - New Logo,Hooli Logistics,rep_008,Hannes Vogel,Commercial,20500,Qualification,2,20,Pipeline,2026-06-20,2025-09-29,2026-04-28,Demo the API integration to their eng team,22,False,False
+opp_0193,Planet Express Health - Platform,Planet Express Health,rep_008,Hannes Vogel,Commercial,19000,Negotiation,4,65,Commit,2026-06-06,2025-12-22,2026-05-14,Schedule security review with their CISO,6,False,False
+opp_0194,Wernham Hogg Technologies - Platform,Wernham Hogg Technologies,rep_008,Hannes Vogel,Commercial,26000,Qualification,2,20,Pipeline,2026-11-13,2025-10-19,2026-03-20,,61,False,False
+opp_0195,Sudden Valley Technologies - New Logo,Sudden Valley Technologies,rep_008,Hannes Vogel,Commercial,20500,Discovery,1,10,Pipeline,2026-06-24,2025-12-03,2026-05-08,Schedule security review with their CISO,12,False,False
+opp_0196,Sterling Cooper Solutions - Expansion,Sterling Cooper Solutions,rep_008,Hannes Vogel,Commercial,23000,Qualification,2,20,Pipeline,2026-10-30,2025-12-03,2026-05-16,Loop in their legal team on MSA redlines,4,False,False
+opp_0197,Cyberdyne Group - Expansion,Cyberdyne Group,rep_008,Hannes Vogel,Commercial,15000,Negotiation,4,65,Commit,2026-07-05,2026-02-13,2026-05-09,Send mutual close plan for sign-off,11,False,False
+opp_0198,Bluth Bio - Platform,Bluth Bio,rep_008,Hannes Vogel,Commercial,26000,Qualification,2,20,Pipeline,2026-09-08,2025-10-28,2026-05-13,Send revised SOW reflecting reduced scope,7,False,False
+opp_0199,Hooli Robotics - Upsell,Hooli Robotics,rep_008,Hannes Vogel,Commercial,19000,Closed Won,6,100,Closed,2026-05-12,2025-11-02,2026-05-16,Schedule security review with their CISO,4,True,True
+opp_0200,Initech Partners - Renewal,Initech Partners,rep_009,Lakshmi Iyer,Enterprise,394500,Discovery,1,10,Pipeline,2026-07-22,2025-09-26,2026-05-20,Loop in their legal team on MSA redlines,0,False,False
+opp_0201,Buy n Large Networks - Platform,Buy n Large Networks,rep_009,Lakshmi Iyer,Enterprise,137000,Closed Won,6,100,Closed,2026-05-16,2025-11-06,2026-05-08,Follow up on pricing after Friday's call,12,True,True
+opp_0202,Pied Piper Health - Expansion,Pied Piper Health,rep_009,Lakshmi Iyer,Enterprise,106000,Verbal,5,85,Commit,2026-05-23,2025-09-22,2026-05-20,Demo the API integration to their eng team,0,False,False
+opp_0203,Planet Express Labs - Upsell,Planet Express Labs,rep_009,Lakshmi Iyer,Enterprise,332000,Proposal,3,40,Pipeline,2026-08-16,2025-11-04,2026-05-15,Confirm budget approval from CFO,5,False,False
+opp_0204,Pied Piper Analytics - Platform,Pied Piper Analytics,rep_009,Lakshmi Iyer,Enterprise,436500,Discovery,1,10,Pipeline,2026-10-06,2025-11-04,2026-05-08,Loop in their legal team on MSA redlines,12,False,False
+opp_0205,Pied Piper Bio - Renewal,Pied Piper Bio,rep_009,Lakshmi Iyer,Enterprise,434500,Negotiation,4,65,BestCase,2026-07-12,2025-10-09,2026-05-09,Send mutual close plan for sign-off,11,False,False
+opp_0206,Bluth Industries - Platform,Bluth Industries,rep_009,Lakshmi Iyer,Enterprise,136000,Discovery,1,10,Pipeline,2026-07-08,2025-10-27,2026-05-15,Follow up on pricing after Friday's call,5,False,False
+opp_0207,Soylent Partners - Upsell,Soylent Partners,rep_009,Lakshmi Iyer,Enterprise,130000,Discovery,1,10,Pipeline,2026-09-20,2026-02-19,2026-05-14,,6,False,False
+opp_0208,Sudden Valley Health - Expansion,Sudden Valley Health,rep_009,Lakshmi Iyer,Enterprise,376500,Qualification,2,20,Pipeline,2026-11-02,2026-01-29,2026-05-17,Schedule security review with their CISO,3,False,False
+opp_0209,Umbrella Networks - New Logo,Umbrella Networks,rep_009,Lakshmi Iyer,Enterprise,438500,Proposal,3,40,Pipeline,2026-08-06,2025-11-27,2026-05-09,Schedule security review with their CISO,11,False,False
+opp_0210,Vandelay Industries - Upsell,Vandelay Industries,rep_009,Lakshmi Iyer,Enterprise,160500,Negotiation,4,65,BestCase,2026-06-18,2025-09-30,2026-05-12,Send revised SOW reflecting reduced scope,8,False,False
+opp_0211,Pied Piper Networks - Expansion,Pied Piper Networks,rep_009,Lakshmi Iyer,Enterprise,153500,Negotiation,4,65,BestCase,2026-07-05,2025-12-09,2026-05-17,Confirm budget approval from CFO,3,False,False
+opp_0212,Umbrella Capital - Platform,Umbrella Capital,rep_009,Lakshmi Iyer,Enterprise,168000,Discovery,1,10,Pipeline,2026-09-06,2025-12-30,2026-03-02,,79,False,False
+opp_0213,Buy n Large Bio - Platform,Buy n Large Bio,rep_009,Lakshmi Iyer,Enterprise,409500,Proposal,3,40,Pipeline,2026-06-30,2025-12-14,2026-04-27,Get verbal commit on close date from buyer,23,False,False
+opp_0214,Anaconda Realty Corp - New Logo,Anaconda Realty Corp,rep_009,Lakshmi Iyer,Enterprise,203500,Qualification,2,20,Pipeline,2026-08-23,2026-01-14,2026-05-10,Send mutual close plan for sign-off,10,False,False
+opp_0215,Pied Piper Health - Renewal,Pied Piper Health,rep_009,Lakshmi Iyer,Enterprise,104000,Qualification,2,20,Pipeline,2026-09-23,2026-02-17,2026-05-17,Confirm budget approval from CFO,3,False,False
+opp_0216,Wernham Hogg Dynamics - Expansion,Wernham Hogg Dynamics,rep_009,Lakshmi Iyer,Enterprise,434000,Proposal,3,40,Pipeline,2026-06-21,2025-09-22,2026-04-26,,24,False,False
+opp_0217,Aviato Capital - Renewal,Aviato Capital,rep_009,Lakshmi Iyer,Enterprise,153500,Negotiation,4,65,BestCase,2026-06-29,2026-04-18,2026-05-17,Confirm budget approval from CFO,3,False,False
+opp_0218,Buy n Large Group - Expansion,Buy n Large Group,rep_009,Lakshmi Iyer,Enterprise,202000,Qualification,2,20,Pipeline,2026-09-28,2026-03-30,2026-05-20,Send revised SOW reflecting reduced scope,0,False,False
+opp_0219,Bluestar Networks - Platform,Bluestar Networks,rep_009,Lakshmi Iyer,Enterprise,271000,Discovery,1,10,Pipeline,2026-11-01,2025-10-18,2026-05-16,Send mutual close plan for sign-off,4,False,False
+opp_0220,Stark Capital - Expansion,Stark Capital,rep_009,Lakshmi Iyer,Enterprise,222500,Discovery,1,10,Pipeline,2026-07-28,2026-02-15,2026-04-27,,23,False,False
+opp_0221,Acme Partners - New Logo,Acme Partners,rep_009,Lakshmi Iyer,Enterprise,95500,Qualification,2,20,Pipeline,2026-11-01,2026-01-28,2026-02-23,,86,False,False
+opp_0222,Mooby Health - Platform,Mooby Health,rep_009,Lakshmi Iyer,Enterprise,286500,Qualification,2,20,Pipeline,2026-09-15,2025-11-26,2026-05-09,Schedule security review with their CISO,11,False,False
+opp_0223,Hooli Analytics - Platform,Hooli Analytics,rep_010,Wei Chen,Commercial,7500,Negotiation,4,65,BestCase,2026-06-22,2026-04-10,2026-05-18,Confirm budget approval from CFO,2,False,False
+opp_0224,Sudden Valley Solutions - Platform,Sudden Valley Solutions,rep_010,Wei Chen,Commercial,17500,Negotiation,4,65,Commit,2026-07-06,2026-01-03,2026-05-18,Get verbal commit on close date from buyer,2,False,False
+opp_0225,Mooby Capital - Platform,Mooby Capital,rep_010,Wei Chen,Commercial,7500,Qualification,2,20,Pipeline,2026-06-23,2026-02-10,2026-05-17,Loop in their legal team on MSA redlines,3,False,False
+opp_0226,Pied Piper Technologies - Expansion,Pied Piper Technologies,rep_010,Wei Chen,Commercial,10000,Verbal,5,85,Commit,2026-06-12,2025-11-29,2026-05-07,Get verbal commit on close date from buyer,13,False,False
+opp_0227,Pied Piper Technologies - Renewal,Pied Piper Technologies,rep_010,Wei Chen,Commercial,25000,Qualification,2,20,Pipeline,2026-06-30,2025-09-29,2026-05-17,Demo the API integration to their eng team,3,False,False
+opp_0228,Cyberdyne Robotics - Expansion,Cyberdyne Robotics,rep_010,Wei Chen,Commercial,17000,Proposal,3,40,Pipeline,2026-07-25,2026-04-06,2026-05-13,Schedule security review with their CISO,7,False,False
+opp_0229,Bluestar Health - Renewal,Bluestar Health,rep_010,Wei Chen,Commercial,15500,Discovery,1,10,Pipeline,2026-09-04,2026-03-12,2026-05-14,,6,False,False
+opp_0230,Aviato Systems - Expansion,Aviato Systems,rep_010,Wei Chen,Commercial,14000,Discovery,1,10,Pipeline,2026-06-27,2026-01-25,2026-05-12,Send revised SOW reflecting reduced scope,8,False,False
+opp_0231,Globex Corp - Expansion,Globex Corp,rep_010,Wei Chen,Commercial,24000,Verbal,5,85,Commit,2026-06-06,2026-04-14,2026-05-06,Loop in their legal team on MSA redlines,14,False,False
+opp_0232,Krusty Krab Dynamics - Upsell,Krusty Krab Dynamics,rep_010,Wei Chen,Commercial,6500,Discovery,1,10,Pipeline,2026-09-06,2026-02-11,2026-02-26,,83,False,False
+opp_0233,Quick Stop Systems - Platform,Quick Stop Systems,rep_010,Wei Chen,Commercial,12000,Closed Won,6,100,Closed,2026-05-07,2025-12-19,2026-05-15,Send revised SOW reflecting reduced scope,5,True,True
+opp_0234,Oscorp Industries - Platform,Oscorp Industries,rep_010,Wei Chen,Commercial,21000,Closed Won,6,100,Closed,2026-05-01,2026-02-26,2026-05-14,Loop in their legal team on MSA redlines,6,True,True
+opp_0235,Oscorp Partners - Platform,Oscorp Partners,rep_010,Wei Chen,Commercial,8000,Closed Won,6,100,Closed,2026-05-13,2025-10-16,2026-05-12,Loop in their legal team on MSA redlines,8,True,True
+opp_0236,Vandelay Health - Upsell,Vandelay Health,rep_010,Wei Chen,Commercial,12000,Discovery,1,10,Pipeline,2026-11-08,2025-12-30,2026-05-11,Get verbal commit on close date from buyer,9,False,False
+opp_0237,Anaconda Realty Group - Renewal,Anaconda Realty Group,rep_010,Wei Chen,Commercial,12500,Proposal,3,40,Pipeline,2026-06-23,2025-10-08,2026-05-16,Confirm budget approval from CFO,4,False,False
+opp_0238,Stark Dynamics - Expansion,Stark Dynamics,rep_010,Wei Chen,Commercial,19500,Negotiation,4,65,BestCase,2026-07-07,2026-01-28,2026-05-12,Send mutual close plan for sign-off,8,False,False
+opp_0239,Buy n Large Analytics - Platform,Buy n Large Analytics,rep_010,Wei Chen,Commercial,25000,Closed Won,6,100,Closed,2026-04-24,2025-10-13,2026-05-07,Confirm budget approval from CFO,13,True,True
+opp_0240,Hooli Robotics - Platform,Hooli Robotics,rep_010,Wei Chen,Commercial,19000,Negotiation,4,65,BestCase,2026-06-11,2026-03-17,2026-05-17,Confirm budget approval from CFO,3,False,False
+opp_0241,Bluth Bio - Upsell,Bluth Bio,rep_010,Wei Chen,Commercial,10500,Verbal,5,85,Commit,2026-05-30,2025-11-23,2026-05-12,Get verbal commit on close date from buyer,8,False,False
+opp_0242,Planet Express Holdings - Upsell,Planet Express Holdings,rep_010,Wei Chen,Commercial,8000,Discovery,1,10,Pipeline,2026-08-15,2026-03-06,2026-05-07,Send revised SOW reflecting reduced scope,13,False,False
+opp_0243,Sterling Cooper Industries - Upsell,Sterling Cooper Industries,rep_010,Wei Chen,Commercial,16500,Proposal,3,40,Pipeline,2026-06-23,2026-03-07,2026-03-30,Follow up on pricing after Friday's call,51,False,False
+opp_0244,Mooby Logistics - Platform,Mooby Logistics,rep_010,Wei Chen,Commercial,16000,Verbal,5,85,Commit,2026-06-02,2026-01-12,2026-05-07,Loop in their legal team on MSA redlines,13,False,False
+opp_0245,Dunder Mifflin Robotics - Renewal,Dunder Mifflin Robotics,rep_010,Wei Chen,Commercial,6000,Negotiation,4,65,Commit,2026-07-13,2025-10-29,2026-05-15,Send mutual close plan for sign-off,5,False,False
+opp_0246,Hooli Analytics - Platform,Hooli Analytics,rep_010,Wei Chen,Commercial,10500,Qualification,2,20,Pipeline,2026-07-05,2025-12-18,2026-05-07,Follow up on pricing after Friday's call,13,False,False
+opp_0247,Planet Express Group - Renewal,Planet Express Group,rep_010,Wei Chen,Commercial,16500,Discovery,1,10,Pipeline,2026-09-03,2025-11-13,2026-05-20,Follow up on pricing after Friday's call,0,False,False
+opp_0248,Planet Express Solutions - Renewal,Planet Express Solutions,rep_010,Wei Chen,Commercial,15500,Discovery,1,10,Pipeline,2026-08-28,2026-02-22,2026-05-16,Confirm budget approval from CFO,4,False,False
+opp_0249,Tyrell Solutions - Upsell,Tyrell Solutions,rep_010,Wei Chen,Commercial,7500,Qualification,2,20,Pipeline,2026-08-02,2025-12-05,2026-05-20,Send revised SOW reflecting reduced scope,0,False,False
+opp_0250,Bluth Bio - New Logo,Bluth Bio,rep_010,Wei Chen,Commercial,11000,Discovery,1,10,Pipeline,2026-10-30,2025-11-08,2026-05-06,Schedule security review with their CISO,14,False,False
+opp_0251,Dunder Mifflin Holdings - Renewal,Dunder Mifflin Holdings,rep_010,Wei Chen,Commercial,24000,Verbal,5,85,Commit,2026-06-02,2026-03-24,2026-05-14,Loop in their legal team on MSA redlines,6,False,False
